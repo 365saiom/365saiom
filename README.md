@@ -39,5 +39,5 @@
 <br>
 
 ## Github-stats ⏲️  
-
-<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
+</h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=365saiom&bg_color=180,000000,&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=365saiom&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> </div> 
+    </div>
