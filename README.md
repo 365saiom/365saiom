@@ -39,5 +39,5 @@
 <br>
 
 ## Github-stats ⏲️  
-</h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=365saiom&bg_color=180,000000,&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=365saiom&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> </div> 
+</h2> <div align= "center"> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=365saiom&bg_color=180,000000,&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=365saiom&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> </div> 
     </div>
